@@ -1,0 +1,8 @@
+[console]::beep(400,200)
+[console]::beep(450,200)
+[console]::beep(500,200)
+[console]::beep(550,200)
+[console]::beep(600,200)
+[console]::beep(650,200)
+[console]::beep(700,200)
+[console]::beep(800,600)
